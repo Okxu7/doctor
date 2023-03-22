@@ -1,0 +1,5 @@
+ Password is too easy to guess. We suggest using a password generator or several random words separated by a random character. 
+Netlify
+Пароль слишком легко угадать. Мы предлагаем использовать генератор паролей или несколько случайных слов, разделенных случайным символом.
+hgghhl8rfxnV 
+  https://idyllic-meerkat-2454e0.netlify.app/

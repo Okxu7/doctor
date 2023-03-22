@@ -1,0 +1,141 @@
+body {
+ font-size: large ;
+      background-image: url( https://funart.pro/uploads/posts/2021-04/1617354855_21-p-oboi-vesna-krasivo-21.jpg );  
+  background-size: cover ;
+padding:  3px;
+padding-left: 80px;
+padding-right: 80px;
+  width: 100%;
+  }
+
+.nav {
+
+    background-color:rgb(230, 148, 204  );  
+  padding:  3px;   
+  margin-bottom:   0px;
+ margin-top: 0px;
+ 
+ display: flex;
+ 
+justify-content: space-between;
+font-size: 15px ;
+font-weight: 600;
+
+}
+.bbb  a {
+  padding-left: 25px;
+text-decoration: none;
+
+  color: #ad0c0c;
+}
+ 
+a {
+ color: #0cc5ea;   
+}
+
+a:hover  {
+color: rgb(18, 237, 91);
+}
+
+header {
+    width: 78%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 12px
+}
+section {
+  width: 90%;  
+margin: 0 auto;
+margin-top: 30px;
+display: flex;
+ 
+}
+.text2 {
+ width: 90%;  
+ margin: 0 auto;
+ font-size: larger;
+ 
+}
+ .name {
+  margin-bottom: 0px;
+    
+}
+
+ 
+.jj {
+     /* background-color: hsl(313, 68%, 84%   ) ;  */
+   background-color:rgb(247, 206, 234);
+
+   opacity: calc(85%);
+} 
+
+.text {
+    font-size: 20px;
+}
+
+.foto  {
+    margin-right: 36px;
+}
+
+
+em {
+    color: #530ee8;
+}
+
+ 
+ .about-name {
+  text-align: center;
+font-size: 20px;
+
+
+}
+.about-position {
+   text-align: center; 
+   font-size: 15px;
+}
+
+
+
+footer {
+ 
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1px;
+  margin-top: 10px;
+ 
+}
+
+ footer {
+  background-color:rgb(233, 154, 209); 
+ 
+ margin-top: 70px;
+  width: 100%; 
+  max-width: 100%; 
+} 
+
+.contact-type {
+    color: bisque;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height:  4px;
+    margin-right: 10px;
+  
+}
+
+.contact-link {
+    color: rgb(2, 11, 83);
+    font-style: normal;
+    font-weight:bold;
+    font-size: 14px;
+    line-height:  4px;
+
+    
+} 
+
+.vnnb {
+    margin-left: 90px; 
+}
